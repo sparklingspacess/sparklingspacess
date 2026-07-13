@@ -1,7 +1,7 @@
-## Hi 
+## Hello
 
-I primarily code in C++ and C# and focus on:
-- Reverse engineering
-- Low-level memory manipulation
+I code in C++, C# and Assembly.
 
-I also build tools and scripts around these areas.
+One of my several hobbies related to tech is reverse engineering.
+
+I don't use tools like Cheat Engine, IDA or Ghidra.
