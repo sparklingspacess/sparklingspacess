@@ -1,6 +1,6 @@
 ## Hello
 
-I code in ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white), [C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) and ![Assembly](https://img.shields.io/badge/Assembly-525252?style=flat-square)
+I code in ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white), ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) and ![Assembly](https://img.shields.io/badge/Assembly-525252?style=flat-square)
 
 # Currently Fucking With
 
@@ -12,5 +12,6 @@ Shit That Will Never See The Light Of Day™
 Reverse Engineering
 Game Networking
 Actually Stable Code
+
 
 I'm bad at making things do things but they eventually start working.. eventually.
