@@ -1,1 +1,1 @@
-Who are you?
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![Assembly](https://img.shields.io/badge/Assembly-525252?style=flat-square)
